@@ -11,7 +11,8 @@ FlatHud adds the following features
 
 All the status bars are 100% texture-less, but retain their fill/unfill animations.
 They most closely resemble the status bars of TES 3: Morrowind. The status bars
-display in a vertical fashion, anchored to the bottom-left-most corner of the display.
+display stacked vertically in fashion, but will remain horizontal, anchored to the
+bottom-left-most corner of the display.
 
 While out of combat, the status bars rest at an opacity of `0.5`, fading in to `1`
 while in combat, or while the individual bar is not at `100%`. Yes, individual bars
