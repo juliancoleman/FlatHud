@@ -43,7 +43,7 @@ the health / charge of your currently equipped weapon.
 
 There are 3 states to each icon: unequipped, equipped, and broken / discharged. The
 unequipped icon is the equipped icon, but with an opacity of `0.3`. The equipped icon
-will be pure white have an opacity of `0.7`, and the broken / discharged icon will be
+will be pure white and have an opacity of `0.7`, and the broken / discharged icon will be
 the equipped icon, but will show in red and have an opacity of `1`.
 
 The currently equipped weapon color may change based on main hand or back-up hand
