@@ -18,7 +18,7 @@ While out of combat, the status bars rest at an opacity of `0.5`, fading in to `
 while in combat, or while the individual bar is not at `100%`. Yes, individual bars
 will become opaque while out of combat.
 
-The bars themselves will not grow or shrink with buffs / debuffs, but will 
+The bars themselves will not grow or shrink with buffs / debuffs.
 
 - [ ] Player Health Bar
   - [ ] Siege Health
