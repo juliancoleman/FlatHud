@@ -1,0 +1,7 @@
+## Title: Flat HUD
+## Description: A flat redesign of the ESO HUD
+## Version: 0.0.1
+## APIVersion: 100021
+
+FlatHud.lua
+FlatHud.xml
