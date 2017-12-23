@@ -1,6 +1,6 @@
 FlatHud = {}
 
-FlatHud.name = "FlatHud"
+FlatHud.name    = "FlatHud"
 FlatHud.version = "0.0.1"
 
 -- Initializers --
