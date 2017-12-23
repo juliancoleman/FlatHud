@@ -3,5 +3,5 @@
 ## Version: 0.0.1
 ## APIVersion: 100021
 
-FlatHud.lua
-FlatHud.xml
+src/FlatHud.lua
+srcFlatHud.xml
